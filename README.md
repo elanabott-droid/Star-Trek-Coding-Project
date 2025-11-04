@@ -5,7 +5,6 @@ Star Trek: Through the Ages is aimed at bringing the theme song from the 1966 St
 - Technologies Used
 - Setup
 - Project Status
-- 
 - Inspiration
 - Contact
 ## General Information
@@ -19,6 +18,6 @@ To setup 'Star Trek: The Final Frontier' first open .JSON file in this hub, and 
 ## Project Status
 This project is complete as of 4/11/2025.
 ## Inspiration
-This project was obviously inspired heavily by Alexander Courages 1966 Star Trek theme, which is a brilliant peice of music that still remains relevant today.
+This project was obviously inspired heavily by Alexander Courages 1966 Star Trek theme, which is a brilliant peice of music that still remains relevant today. First recorded in 1964, it was known informally as the "Star Trek Fanfare", played in its entirety during the opening title sequences of each episode. The first episode that featured it was "Where No Man Has Gone Before."
 ## Contact
 Please contact me at elana.bott@student.uts.edu.au if any assistance is required.
