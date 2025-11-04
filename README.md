@@ -5,3 +5,7 @@ Star Trek: Through the Ages is aimed at bringing the theme song from the 1966 St
 - Technologies Used
 - Screenshots
 - Setup
+- Project Status
+- Contact
+- Inspiration
+# General Information
