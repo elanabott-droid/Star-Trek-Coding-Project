@@ -14,7 +14,7 @@ As a first-time coder, I created Star Trek: The Final Frontier to explore how co
 - TunePad
 - TunePad Documentation
 ## Set Up
-To setup 'Star Trek: The Final Frontier' first open .JSON file in this hub, and download the it file. Next sign into TunePad, go to 'My Tunes', select import and import the .JSON file. Now press start!
+To setup 'Star Trek: The Final Frontier' first open the .JSON file in this hub, and download the raw file. Next sign into TunePad, go to 'My Tunes'where all your projects are skept, select import down at the bottom, and import the .JSON file. You should automatically be taken to the project!
 ## Project Status
 This project is complete as of 4/11/2025.
 ## Inspiration
